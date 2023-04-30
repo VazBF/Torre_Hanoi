@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torre_Recursiva", "Torre_Recursiva\Torre_Recursiva.csproj", "{5B63FF44-0247-4B78-BE2D-ED9C4125FB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B63FF44-0247-4B78-BE2D-ED9C4125FB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B63FF44-0247-4B78-BE2D-ED9C4125FB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B63FF44-0247-4B78-BE2D-ED9C4125FB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B63FF44-0247-4B78-BE2D-ED9C4125FB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C91C540-F653-487D-AEC5-B7D39768D378}
+	EndGlobalSection
+EndGlobal
